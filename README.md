@@ -1,4 +1,4 @@
-###                                                                            Hi, I'm Eduardo Palmieri 👋
+### Hi, I'm Eduardo Palmieri 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
 [![Kaggle]<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
