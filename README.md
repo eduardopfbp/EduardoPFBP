@@ -1,7 +1,7 @@
-### Hi, I'm Eduardo Palmieri 👋
-
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new everyday. I'm a **PhD in Applied Maths** and currently a **Data Scientist**.
-
+### Hi, I'm Eduardo Palmieri <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+__________________________________________________________________________________________________________________________________________________________
+I am a **data science** and **big data analytics** **professional** based in Rio de Janeiro, with a degree in **administration**, a postgraduate background in **data science**, and current studies in **software engineering**. I am working towards establishing myself as a proficient programmer, bringing enthusiasm for technology and gaming to the programming world.
+__________________________________________________________________________________________________________________________________________________________
 - 🌱 I’m currently learning *Advanced Machine Learning* & *Data Science* (and enjoying _Web Dev_).
 - 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
 - 📚 My notes of learning at [dinhanhthi.com/notes](http://dinhanhthi.com/notes).
