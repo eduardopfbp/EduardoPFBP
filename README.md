@@ -6,9 +6,16 @@ ________________________________________________________________________________
 - 📜 Bachelor's in Business Administration
 - 📜 Post-graduate degree in Big Data Science
 - 📜 Software Engineering Student
-- 🖊️ Looking for a **freelance work** and **projects** to work on
+- 🖊️ Open for a **freelance work** and **projects** to work on
 - 🖊️ Learning *Advanced Machine Learning* & *Data Science*
 - 🏄‍♂️ Surf as a hobbie
+___________________________________________________________________________________________________________________________________________________________
+-📩 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](eduardo_palmieri@outlook.com)
+-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-username/](https://www.linkedin.com/in/eduardo-palmieri001/))
+
+
+
+
 ___________________________________________________________________________________________________________________________________________________________
 Technologies I've been learning and using so far :
 
