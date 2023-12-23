@@ -11,7 +11,8 @@ ________________________________________________________________________________
 - 🏄‍♂️ Surf as a hobbie
 ___________________________________________________________________________________________________________________________________________________________
 -📩 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](eduardo_palmieri@outlook.com)
--💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-username/](https://www.linkedin.com/in/eduardo-palmieri001/))
+-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-palmieri001/)
+
 
 
 
