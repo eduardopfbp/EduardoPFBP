@@ -10,14 +10,6 @@ ________________________________________________________________________________
 - 🖊️ Learning *Advanced Machine Learning* & *Data Science*
 - 🏄‍♂️ Surf as a hobbie
 ___________________________________________________________________________________________________________________________________________________________
--📩 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](eduardo_palmieri@outlook.com)
--💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-palmieri001/)
-
-
-
-
-
-___________________________________________________________________________________________________________________________________________________________
 Technologies I've been learning and using so far :
 
 - Programming languages : <br />
@@ -40,6 +32,13 @@ Technologies I've been learning and using so far :
     [![NumPy](http://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
     [![Matplotlib](http://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=matplotlib&logoColor=black)](https://matplotlib.org/)
     [![Plotly](http://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/)
+
+___________________________________________________________________________________________________________________________________________________________
+Feel free to contact me for collaboration on projects or potential freelance opportunities or interviews.
+
+- Contact : <br />
+    [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardo_palmieri@outlook.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-palmieri001/)
 
 
     
