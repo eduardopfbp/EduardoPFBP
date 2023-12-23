@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 📜 Bachelor's in Business Administration
 - 📜 Post-graduate degree in Big Data Science
 - 📜 Software Engineering Student
-- 🖊️ Looking for a freelance work and projects to work on
+- 🖊️ Looking for a **freelance work** and **projects** to work on
 - 🖊️ Learning *Advanced Machine Learning* & *Data Science*
 - 🏄‍♂️ Surf as a hobbie
 ___________________________________________________________________________________________________________________________________________________________
